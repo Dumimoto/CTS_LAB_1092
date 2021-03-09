@@ -1,0 +1,19 @@
+Code review
+
+1. Code structure & naming conventions
+
+- the package name is too generic; what is the module name?
+-improper class name
+-improper function name
+-function arguments names are not okay
+
+
+2. Implementation
+
+- too many "magic numbers" (hard-coded variables)
+- is t limited to {1,2,3,4} or greater values
+- no validations for t, s or perioada
+
+
+
+3. Single
